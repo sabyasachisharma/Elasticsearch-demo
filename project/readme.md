@@ -1,4 +1,4 @@
-<!-- version of elastic search and dep[endent python modeule should be same as requirements. Updated version of elasticsearch module have depreciated few of the keyword and replaced with new ones.  Like in DOctype is replaced by Document. 
+<!-- version of elastic search and dependent python modeule should be same as requirements. Updated version of elasticsearch module have depreciated few of the keyword and replaced with new ones.  Like in DOctype is replaced by Document. 
 
 http://localhost:8000/cars/?search=description|is - search and display cars, which contain the word ‘is’ in the description.
 http://localhost:8000/cars/?id__gte=7 - filter and get only the cars which have ‘id’ greater or equal than 7.
